@@ -1,4 +1,6 @@
-# SIGIR-AP 2023 Tutorial: Recent Advances in Generative Information Retrieval
+# ECIR 2023 Tutorial: Recent Advances in Generative Information Retrieval
+
+The website is [here](https://ecir2024-GenerativeIR.github.io/).
 
 The code is adapted from the [Nerfies website](https://nerfies.github.io).
 
