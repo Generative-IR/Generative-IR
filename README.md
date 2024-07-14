@@ -1,6 +1,6 @@
 # Tutorial: Recent Advances in Generative Information Retrieval
 
-The website is [here](https://ecir2024-GenerativeIR.github.io/).
+The website is [here](https://generative-ir.github.io/).
 
 The code is adapted from the [Nerfies website](https://nerfies.github.io).
 
